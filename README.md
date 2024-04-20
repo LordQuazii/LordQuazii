@@ -1,0 +1,4 @@
+-  Hi, I’m @LordQuazii
+-  I’m interested in music, the source engine, writing
+-  I’m currently learning lua, the drums
+-  Pronouns: She/They
